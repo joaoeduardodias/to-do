@@ -1,17 +1,19 @@
 import { createGlobalStyle } from 'styled-components';
 
-export default createGlobalStyle`
+export const GlobalStyle = createGlobalStyle`
  * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 
   }
 
  body {
-    /* background: */
-    font: 400 1rem 'Montserrat', sans-serif;
+   background: #202124;
+   color: #fff;
+   font: 400 1rem 'Poppins', sans-serif;
+   -webkit-font-smoothing: antialiased;
   }
 
   ul {

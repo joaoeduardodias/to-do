@@ -41,6 +41,7 @@
     "@types/styled-components": "5.1.25",
     "@typescript-eslint/eslint-plugin": "5.28.0",
     "@typescript-eslint/parser": "5.28.0",
+    "babel-plugin-inline-react-svg": "2.0.1",
     "commitizen": "4.2.4",
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.17.0",
@@ -57,5 +58,8 @@
     "commitizen": {
       "path": "cz-conventional-changelog"
     }
+  },
+  "resolutions": {
+    "@types/react": "^18.0.5"
   }
 }
