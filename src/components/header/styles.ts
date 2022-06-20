@@ -8,6 +8,8 @@ export const Container = styled.header`
   align-items: center;
   background: #040404;
   border-bottom: 1px solid #ddd;
+
+  font-weight: 500;
 `;
 export const Content = styled.div`
   max-width: 1180px;
@@ -16,4 +18,5 @@ export const Content = styled.div`
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: 'Roboto' !important;
 `;
