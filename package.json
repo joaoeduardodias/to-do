@@ -1,9 +1,9 @@
 {
-  "name": "typescript-nextjs-starter",
-  "description": "A TypeScript starter for Next.js that includes all you need to build amazing projects",
+  "name": "todo_list",
+  "description": "project of todo list",
   "version": "1.0.0",
-  "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+  "private": false,
+  "author": "João Dias <joaoeduardodias123@gmail.com>",
   "license": "MIT",
   "keywords": [
     "nextjs",
