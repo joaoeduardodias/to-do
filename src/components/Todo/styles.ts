@@ -19,7 +19,7 @@ export const Container = styled.li`
   }
 `;
 export const Icon = styled.div`
-  width: 3.5rem;
+  width: 5rem;
   height: 100%;
   display: flex;
   align-items: center;

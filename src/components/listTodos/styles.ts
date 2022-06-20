@@ -9,4 +9,10 @@ export const Container = styled.ul`
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
+  header {
+    margin-left: auto;
+    margin-bottom: 1rem;
+    font-weight: 500;
+  }
 `;
